@@ -11,7 +11,7 @@ This project was first done and finished in a different repo to this one (42 cam
 
 In the following pdf you can find the project requirements as specified by 42 campus: [README_SO_LONG.pdf](https://github.com/Alvicina/SO_LONG/files/15310083/README_SO_LONG.pdf)
 
-The following snapshot if proof that the project was succesfully done:
+The following snapshot is proof that the project was succesfully done:
 <img width="895" alt="Captura de pantalla 2024-09-03 a las 23 15 28" src="https://github.com/user-attachments/assets/cc1c2359-0ba3-419a-bf09-ac7421ffaa1c">
 
 
